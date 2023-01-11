@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.nmadur{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(1, 7, 15, 0.8)), url(../../img/banner2.jfif);
+    min-height: 98.3vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.harbalo-img{
+    border-radius: 10px;
+    width: 360px;
+}
+
+.post-text{
+    text-align: justify;
+}
+
+.bita-rang{
+    color: red;
+    transition: 0.7s;
+    margin-bottom: 10px;
+}
+
+.bita-rang:hover{
+    color: rgb(219, 84, 84);
+}
+
+.wearpro{
+    font-family: "Open Sans";
+    color: white;
+    font-weight: bold;
+}
+
+.post-content{
+    font-family: 'Open Sans', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+.apple{
+    color: white;
+    list-style: none;
+    background-color: (rgba(0, 0, 0, 0.8), rgba(1, 7, 15, 0.8));
+    font-size: 18px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 0px whitesmoke ;
+    border: 0.5px solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.comment-author{
+    text-transform: capitalize;
+}
